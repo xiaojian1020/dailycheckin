@@ -38,6 +38,7 @@
 - 🕙 支持定时任务设置
 - 🆙 支持项目自动更新
 
+
 ## 🦄 教程
 
 [https://sitoi.github.io/dailycheckin/](https://sitoi.github.io/dailycheckin/)
